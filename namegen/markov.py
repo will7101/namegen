@@ -11,7 +11,7 @@ class CharChain:
         self.order = order
         # initial states
         self.initials = []
-        # transition  matrix
+        # transition matrix
         self.trans = {}
         # initials start with certain prefix
         self.prefix = {}
